@@ -1,0 +1,180 @@
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    }
+    
+    .section {
+        padding-top: 102px;
+        text-align: center;
+    }
+    
+    .backgroundPicture {
+        background-image: linear-gradient(
+            rgba(51, 51, 51, 0.58),
+            rgba(51, 51, 51, 0.58)
+          ),
+          url("cityView.jpg");
+        text-align: center;
+        background-size: cover;
+        margin-bottom: 66px;
+    }
+
+    .pricingOptions {
+        background-color: #f5f5f5;
+    }
+
+    .sectionWrapper {
+        margin-bottom: 81px;
+    }
+
+    .title {
+        font-size: 36px;
+    }
+    
+    .sectionWrapper {
+        margin-bottom: 66px;
+    }
+    
+    .line {
+        width: 64px;
+        height: 2px;
+        margin: 22px auto;
+        background-color: #FF8B38;
+    }
+    
+    .item {
+        display: inline-block;
+        width: 350px;
+    }
+    
+    .m-rl-33 {
+        margin: 0 33px;
+    }
+    
+    .itemImage {
+        width: 70px;
+        height: 70px;
+        margin: 0 auto 27px;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: 2px solid #ff8b38;
+        border-radius: 50%;
+    
+    }
+    
+    .lamp {
+        background-image: url("lamp.png");
+    }
+    
+    .keyboard {
+        background-image: url("keyboard.png");
+    }
+    
+    .lightning{
+        background-image: url("lightning.png");
+    }
+    
+    .itemTitle {
+        margin-bottom: 16px;
+    }
+    
+    .description {
+        font-size: 14px;
+        color: #86878b;
+        line-height: 20px;
+    }
+    .table {
+        width: 343px;
+        display: inline-block;
+        list-style-type: none;
+        padding-left: 0;
+        text-align: center;
+    }
+      
+    .m-rl-40 {
+        margin: 0 40px;
+    }
+      
+    .itemHeader {
+        padding: 18px 17px;
+        background-color: #333333;
+        font-size: 20px;
+        font-weight: bold;
+        color: #ffffff;
+        margin-bottom: 1px;
+    }
+      
+    .price {
+        padding: 38px 38px;
+        background: #333333;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 24px;
+        color: #ffffff;
+        margin-bottom: 1px;
+    }
+      
+    .time {
+        padding: 13px 13px;
+        background-color: #333333;
+        font-style: italic;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        color: rgba(255, 255, 255, 0.7);
+        border-bottom: 5px solid #ff8b38;
+    }
+      
+    .itemOurMostPopular {
+        padding: 8px 8px;
+        background-color: #ff8b38;
+        font-size: 14px;
+        line-height: 24px;
+        color: #ffffff;
+        font-weight: bold;
+    }
+      
+    .itemTable {
+        padding: 8px;
+        background: #ffffff;
+        margin-bottom: 1px;
+        font-size: 14px;
+        line-height: 24px;
+        text-transform: uppercase;
+        color: #86878b;
+    }
+      
+    .stylishAxure {
+        padding-top: 54px;
+        font-size: 36px;
+        line-height: 43px;
+        color: #ffffff;
+    }
+      
+    .whiteLine {
+        width: 64px;
+        height: 2px;
+        background: #ffffff;
+        margin: 22px auto;
+    }
+      
+    .whiteDiscription {
+        font-size: 14px;
+        color: #ffffff;
+        line-height: 20px;
+        margin-bottom: 38px;
+    }
+      
+    .button {
+        width: 134px;
+        padding: 12px 12px;
+        border: 1px solid #ffffff;
+        border-radius: 4px;
+        margin-bottom: 54px;
+        background: transparent;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 18px;
+        color: #ffffff;
+    }
